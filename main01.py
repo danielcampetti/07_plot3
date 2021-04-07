@@ -1,3 +1,6 @@
+# Programa 1
+
+
 from tkinter import *
 from PIL import ImageTk, Image
 
@@ -10,9 +13,4 @@ root.geometry("400x400")
 button_quit = Button(root, text="Fechar Programa", command=root.quit)
 button_quit.pack()
 
-#teste adads
-
-#dadsadasds
-
-asdasdasdasda
 root.mainloop()
