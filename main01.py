@@ -1,9 +1,9 @@
 # Programa 1
 
+from PIL import ImageTk, Image
+from tkinter import *
 v6
 
-from tkinter import *
-from PIL import ImageTk, Image
 
 root = Tk()
 root.title("Aplicativo Nieto Engenharia")
